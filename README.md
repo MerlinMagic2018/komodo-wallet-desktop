@@ -156,7 +156,7 @@ Check out Komodo Wallet mobile, available for [Android and iOS](https://atomicde
 
 For details please refer to our [license](https://github.com/KomodoPlatform/komodo-wallet-desktop/blob/master/LICENSE).
 
-This is experimental alpha software - use at your own risk!
+This is experimental alpha software - use at your own risk!!
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
 WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
